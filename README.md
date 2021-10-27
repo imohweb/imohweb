@@ -5,7 +5,7 @@ I've given over 5+ talks🎤🎧 at various virtual tech conferences/meetups acr
 
 I love ❤️ playing with Cloud (Azure, AWS), On-Premises Infrastructure 🎥💻, SaaS Solutions, DevOps, Containerized solutions (Docker, Kubernetes), Linux, IaC tool (Terraform), Bash/PowerShell Scripting and Windows Server.
 
-I write Technical articles on Kubernetes, Docker, Terraform, Microsoft Azure, DevOps, Linux, Windows Server and General IT concepts🎉
+I author technical articles on regular basis on Kubernetes, Docker, Terraform, Microsoft Azure, DevOps, Linux, Windows Server and General IT concepts🎉
 
 Want to connect?
 You can connect with me via any of the platforms below 👇🏾
