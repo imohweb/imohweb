@@ -1,9 +1,11 @@
 ### Hi there 👋
-My name is Imoh Etuk. I work as an Asst. IT Manager at Consultants Collaborative Partnership LLP. I am a Microsoft Certified Trainer (MCT)
+My name is Imoh Etuk. I am an experienced IT professional and consultant with significant cloud and on-premises infrastructure design and implementation skills. I am a Microsoft Certified Trainer (MCT) and an AWS Community Builder.
 
-I've given over 5+ talks🎤🎧 at various virtual tech conferences/meetups across the World 🌏 and also collaborate with other prominent members of Microsoft Community in Nigeria and the West Africa Region to host free training sessions and bootcamps on Microsoft Azure and other Microsft products like Microsoft 365, Azure DevOps, AI, Data and IoT. One of such training and Bootcamp is the Yearly MCT West Africa Cloud Bootcamp, Microsoft Azure AZ-104 study Series and many others.
+Currently, I work as an Asst. IT Manager at Consultants Collaborative Partnership LLP (Full-Time). I have worked with various teams ranging from small, medium, and large teams. Over the years I have designed and built solutions that are highly available, scalable and reliable both in the cloud and on-premises. 
 
-I love ❤️ playing with Cloud (Azure, AWS), On-Premises Infrastructure 🎥💻, SaaS Solutions, DevOps, Containerized solutions (Docker, Kubernetes), Linux, IaC tool (Terraform), Bash/PowerShell Scripting and Windows Server.
+In addition, I have given over 5+ talks 🎤🎧 at various virtual and In-Person tech conferences/meetups across the World 🌏 and collaborated with other prominent members of the Microsoft Azure Community in Nigeria and the Members of the MCT West African Region to host free training sessions and Bootcamps on Microsoft Azure and other Microsoft technologies like Microsoft 365, Azure DevOps, AI, Data and IoT. Among such training and Bootcamps are the Yearly MCT West Africa Cloud Bootcamp, Azure Nigeria Community Conference, Microsoft Azure Weekly and Monthly Study Series, and many others.
+
+I love ❤️ playing with Cloud platforms such as Azure, AWS and GCP, On-Premises Infrastructure 🎥💻, SaaS Solutions, DevOps, Containerized solutions (Docker, Kubernetes), Jenkins CI/CD tool, Linux, IaC tool (Terraform), Bash/PowerShell Scripting and Windows Server.
 
 I author technical articles on regular basis on Kubernetes, Docker, Terraform, Microsoft Azure, DevOps, Linux, Windows Server and General IT concepts🎉
 
