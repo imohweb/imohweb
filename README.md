@@ -5,6 +5,8 @@ Currently, I work as an Asst. IT Manager at Consultants Collaborative Partnershi
 
 In addition, I have given over 5+ talks 🎤🎧 at various virtual and In-Person tech conferences/meetups across the World 🌏 and collaborated with other prominent members of the Microsoft Azure Community in Nigeria and the Members of the MCT West African Region to host free training sessions and Bootcamps on Microsoft Azure and other Microsoft technologies like Microsoft 365, Azure DevOps, AI, Data and IoT. Among such training and Bootcamps are the Yearly MCT West Africa Cloud Bootcamp, Azure Nigeria Community Conference, Microsoft Azure Weekly and Monthly Study Series, and many others.
 
+I am the current leader of the Azure Nigeria Community. As the current leader of the community, I have successfully hosted Cloud Resume Challenge for the community members, recruit more people to join the community, set up and manage a collaborative Slack channel for the community, and hosted AZ-900 Azure Fundamentals and AZ-400 Azure DevOps Study Series in August 2022. 
+
 I love ❤️ playing with Cloud platforms such as Azure, AWS and GCP, On-Premises Infrastructure 🎥💻, SaaS Solutions, DevOps, Containerized solutions (Docker, Kubernetes), Jenkins CI/CD tool, Linux, IaC tool (Terraform), Bash/PowerShell Scripting and Windows Server.
 
 I author technical articles on regular basis on Kubernetes, Docker, Terraform, Microsoft Azure, DevOps, Linux, Windows Server and General IT concepts🎉
