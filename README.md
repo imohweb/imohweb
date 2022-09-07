@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Imoh Etuk. I am an experienced IT professional and consultant with significant cloud and on-premises infrastructure design and implementation skills. I am a Microsoft Certified Trainer (MCT) and an AWS Community Builder.
+My name is Imoh Etuk. I am an experienced IT professional and consultant with significant cloud and on-premises infrastructure design and implementation skills. I am a Microsoft Certified Trainer (MCT), Microsoft Most Valuable Professional (MVP - Microsoft Azure Category), and an AWS Community Builder.
 
 Currently, I work as an Asst. IT Manager at Consultants Collaborative Partnership LLP (Full-Time). I have worked with various teams ranging from small, medium, and large teams. Over the years I have designed and built solutions that are highly available, scalable and reliable both in the cloud and on-premises. 
 
