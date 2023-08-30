@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-My name is Imoh Etuk. I am an experienced Cloud Infrastructure, Security and DevOps Engineer with focus on multi-cloud. <br>I have over 8 Years of experience in IT Infrastructure and Operations.  <br>I am a Microsoft Certified Trainer (MCT), Microsoft Most Valuable Professional (MVP - Microsoft Azure Category), <br> AWS Community Builder and User Group Leader. <br>Currently, I work as Presales Engineer - Microsoft Azure & Other Cloud Solutions with IT Horizons Nigeria Ltd. <b> 
-I have worked with various teams ranging from small, medium, and large teams. Over the years I have designed and built solutions that are highly available, scalable and reliable both in the cloud and on-premises.
-
+My name is Imoh Etuk. I am an experienced Solutions Architect, DevOps, and cloud security professional with a focus on multi-cloud. <br>I have over 8 Years of experience in deploying IT Infrastructure both on-premises and in the cloud.  <br>I am a Microsoft Certified Trainer (MCT), Microsoft Most Valuable Professional (MVP-Microsoft Azure Category), <br> AWS Community Builder, and User Group Leader. <br>Currently, I work as a Senior Pre-sales Engineer at IT Horizons Nigeria Ltd., where I am responsible for designing Microsoft cloud and other cloud solutions for customers. <b> 
+I have experience working with various team sizes, ranging from small, medium, and large teams. Over the years, I have designed and implemented infrastructure, security and identity solutions that are highly available, scalable, and reliable, both in the cloud and on-premises, for different organizations.
 ## My Activities
 1. I deliver technical talk 🎤🎧 sessions at tech conferences/seminars/wrokshops/communities/user groups
-2. Work alongside with other leaders to keep the Azure Nigeria Community up and running
+2. Work alongside other leaders to keep the Azure Nigeria Community up and running
 3. Work with other User Group Leaders in the AWS Cloud Security User Group West Africa to keep the User Group up and running.
 4. Author technical articles that help others solve technical problems. Visit [blog](https://techdirectarchive.com/author/iamrealimoh1/).
 
@@ -50,6 +49,7 @@ I have worked with various teams ranging from small, medium, and large teams. Ov
 * [Facebook](https://facebook.com/iamrealimoh)
 * [LinkedIn](https://www.linkedin.com/in/etukimoh/)
 * [Instagram](https://instagram.com/imohweb)
+* [Blog](https://imohweb.cloud)
 
   
 
