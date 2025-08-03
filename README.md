@@ -42,7 +42,7 @@ I have experience working with various team sizes, including small, medium, and 
   <i class="fa fa-terraform"></i> Terraform</a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imohweb&theme=shades-of-purple&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
+[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)](https://git.io/streak-stats)
 
 ## Connect with me:
 * [Twitter](https://twitter.com/iamrealimoh)
