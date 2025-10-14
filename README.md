@@ -6,7 +6,7 @@ I have experience working with teams of various sizes, including small, medium, 
 1. I deliver technical talk 🎤🎧 sessions at tech conferences/seminars/workshops/communities/user groups
 2. I co-organise the [Azure Nigeria Community](https://www.meetup.com/nigeria-microsoft-azure-meetup-group/?eventOrigin=home_groups_you_organize), and I'm also responsible for managing the leaders and other activities of the community
 3. I co-founded the [AWS Cloud Security User Group West Africa](https://www.meetup.com/aws-cloud-security-user-group-west-africa/?eventOrigin=home_groups_you_organize) and have been working with other User Group Leaders to keep the User Group up and running.
-4.  I write technical articles that help others solve technical problems. Visit [blog](https://techdirectarchive.com/author/iamrealimoh1/).
+4.  I write technical articles that help others solve technical problems. Visit [blog](https://techdirectarchive.com/author/iamrealimoh1/) and my [Medium page](https://medium.com/@imohetuk).
 
 ## Tech Tools
 <p>I work with the following tech tools:</p>
