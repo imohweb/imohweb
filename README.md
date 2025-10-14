@@ -21,6 +21,18 @@ I have experience working with teams of various sizes, including small, medium, 
   
   <a class="btn btn-default btn-success" href="https://kubernetes.io/">
   <i class="fa fa-kubernetes"></i> Kubernetes</a>
+
+  <a class="btn btn-default btn-success" href="https://www.python.org/">
+  <i class="fa fa-kubernetes"></i> Python</a>
+
+  <a class="btn btn-default btn-success" href="https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio">
+  <i class="fa fa-kubernetes"></i>Microsoft Copilot Studio</a>
+
+   <a class="btn btn-default btn-success" href="https://azure.microsoft.com/en-us/products/ai-foundry">
+   <i class="fa fa-kubernetes"></i> Azure AI Foundry</a>
+
+   <a class="btn btn-default btn-success" href="https://www.microsoft.com/en-us/power-platform">
+   <i class="fa fa-kubernetes"></i> Microsoft Power Platform</a>
   
   <a class="btn btn-default btn-success" href="https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQjw4omaBhDqARIsADXULuXPVlV7BLUdtYzth-7OiigSrDC79hCQRK4g7EBXfmBJt1Y6jC2MUysaAr7hEALw_wcB:G:s&OCID=AIDcmmfdukp5kz_SEM_Cj0KCQjw4omaBhDqARIsADXULuXPVlV7BLUdtYzth-7OiigSrDC79hCQRK4g7EBXfmBJt1Y6jC2MUysaAr7hEALw_wcB:G:s&gclid=Cj0KCQjw4omaBhDqARIsADXULuXPVlV7BLUdtYzth-7OiigSrDC79hCQRK4g7EBXfmBJt1Y6jC2MUysaAr7hEALw_wcB">
   <i class="fa fa-azure"></i> Azure</a>
@@ -44,7 +56,7 @@ I have experience working with teams of various sizes, including small, medium, 
   <i class="fa fa-terraform"></i> Terraform</a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imohweb&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imohweb&theme=git-dark)](https://git.io/streak-stats)
 
 ## Connect with me:
 * [Twitter](https://twitter.com/iamrealimoh)
