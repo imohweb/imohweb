@@ -51,7 +51,7 @@ I have experience working with teams of various sizes, including small, medium, 
 * [Facebook](https://facebook.com/iamrealimoh)
 * [LinkedIn](https://www.linkedin.com/in/etukimoh/)
 * [Instagram](https://instagram.com/imohweb)
-* [Blog](https://imohweb.cloud)
+* [Blog](https://medium.com/@imohetuk)
 
   
 
